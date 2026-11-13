@@ -2,6 +2,8 @@
 
 Landing page de uma empresa fictícia de soluções digitais (**Global Labs**), criada para praticar HTML, CSS e o framework [Bootstrap 5](https://getbootstrap.com/).
 
+🔗 **Acesse a página:** https://malvesgouveia.github.io/construindo-paginas-bootstrap/
+
 ![Prévia da página](docs/preview.png)
 
 ## Seções
