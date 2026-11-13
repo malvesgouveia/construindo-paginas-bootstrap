@@ -43,7 +43,9 @@ cd construindo-paginas-bootstrap
 └── docs/         # imagem de prévia do README
 ```
 
-> Os textos, contatos e os parceiros CodeNova e CloudBase são fictícios, usados apenas como exemplo.
+## Sobre o conteúdo
+
+Este é um **projeto de estudo**. A Global Labs é uma empresa fictícia, e os textos, contatos (e-mail, telefone e endereço) e os parceiros CodeNova e CloudBase foram criados apenas como exemplo. O logo da Digital Innovation One pertence à própria DIO e aparece aqui como referência ao curso.
 
 ## Autor
 
